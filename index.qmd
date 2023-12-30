@@ -1,0 +1,37 @@
+---
+title: "MUSA 550 Final Project"
+subtitle: "Assessing relationship between urban form and walkability in Kisumu, Kenya"
+---
+
+## Welcome!
+
+
+::: {.callout-important}
+
+Kisumu is a port city in western Kenya at 1,131 m (3,711 ft) elevation. The port was founded in 1901 as the main inland terminal of the Uganda Railway and named Port Florence. 
+
+I am using scikit-learn for k-means clustering to classify Landsat 8 imagery for understanding urban landscapes in Kisumu. Then, I applied OSMnx for street network analysis in Kisumu to evaluate urban walkability, focusing on factors like street density and accessibility to amenities. This approach allowed me to assess the relationship between urban form and walkability in Kisumu.
+
+Potential Data Sources:
+
+1. ESRIWorldImageryWaybackSatelliteData 
+
+2. GoogleEarthEngine
+
+3. OSMStreetMapsData
+
+:::
+
+## Find out more
+
+The code for this repository is hosted on our course's GitHub page: [https://github.com/MUSA-550-Fall-2023/quarto-website-template](https://github.com/MUSA-550-Fall-2023/quarto-website-template).
+
+We covered the basics of getting started with Quarto and GitHub Pages in week 9. Take a look at
+[the slides for lecture 9A](https://musa-550-fall-2023.github.io/content/week-9/lecture-9A.html) to find out more.
+
+
+
+
+
+
+ 
