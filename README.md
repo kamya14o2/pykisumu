@@ -6,4 +6,4 @@ Data sources include ESRI World Imagery Wayback satellite data, Google Earth Eng
 
 This project was made by Kamya Khandelwal.
 
-The published site for this example repository is available at [this link.](https://kamya14o2.github.io/Final_1/)
+The published site for this repository is available at [this link.](https://kamya14o2.github.io/Final_1/)
